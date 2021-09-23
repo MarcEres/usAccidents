@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 library(usAccidents)
 ```
 
+[![Build Status](https://app.travis-ci.com/MarcEres/usAccidents.svg?branch=main)](https://app.travis-ci.com/MarcEres/usAccidents)
+
 # US FARS (Fatality Analysis Recording System)
 
 This package sole objective is to produce graphics of the accidents in the US.

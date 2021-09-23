@@ -9,6 +9,7 @@ output: github_document
 # usAccidents
 
 <!-- badges: start -->
+[![Build Status](https://app.travis-ci.com/MarcEres/usAccidents.svg?branch=main)](https://app.travis-ci.com/MarcEres/usAccidents)
 <!-- badges: end -->
 
 
