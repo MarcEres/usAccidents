@@ -1,0 +1,28 @@
+Package: usAccidents
+Type: Package
+Title: Cars accidents in the USA
+Version: 0.0.0.9000
+Authors@R:
+  person(given = "Marc",
+         family = "Eres",
+         role = c("aut", "cre"),
+         email = "marcuseres@gmail.com",
+         comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Creates a graphic of the US accidents.
+License:  CC0
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    magrittr,
+    maps,
+    readr,
+    tidyr,
+    rlang,
+    testthat
+Suggests:
+    knitr,
+    rmarkdown
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+VignetteBuilder: knitr
